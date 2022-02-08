@@ -1,6 +1,3 @@
-from hashlib import new
-from mimetypes import init
-from operator import mul
 from re import X
 import pygame
 import math
